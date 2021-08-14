@@ -1,0 +1,13 @@
+.header-container{
+   
+    background-color:indigo;
+    text-align:center;
+    
+}
+.header-photo{
+    text-align:center;
+    background-color:rgb(79, 133, 187);
+}
+.header-img{
+    height:270px;
+}
